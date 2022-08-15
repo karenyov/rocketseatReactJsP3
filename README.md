@@ -18,7 +18,7 @@ npm run dev
 ```
 
 ## Acessando a Aplicação
-Por padrão a porta configurada é a 8080 (http://localhost:5173).
+Por padrão a porta configurada é a 5173 (http://localhost:5173).
 
 # Screenshots
 <p align="center">
