@@ -20,7 +20,7 @@ npm run dev
 # Rodando Server
 Por padrão a porta configurada é a 5173 (http://localhost:3000).
 ```sh
-npx json-server server.json 
+npx json-server server.json -w
 ```
 
 ## Acessando a Aplicação
