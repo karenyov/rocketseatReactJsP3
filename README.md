@@ -18,7 +18,7 @@ npm run dev
 ```
 
 # Rodando Server
-Por padrão a porta configurada é a 3000 (http://localhost:3000).
+Por padrão a porta configurada é a 3333 (http://localhost:3333).
 ```sh
  npm run dev:server
 ```
