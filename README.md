@@ -12,9 +12,15 @@ Instalar as dependências do projeto
 npm install
 ```
 
-# Rodando Aplicativo
+# Rodando UI
 ```sh
 npm run dev
+```
+
+# Rodando Server
+Por padrão a porta configurada é a 5173 (http://localhost:3000).
+```sh
+npx json-server server.json 
 ```
 
 ## Acessando a Aplicação
