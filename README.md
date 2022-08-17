@@ -23,6 +23,17 @@ Por padrão a porta configurada é a 3000 (http://localhost:3000).
  npm run dev:server
 ```
 
+# ESLint
+> Para visualizar os erros de formatação no código.
+```sh
+ npm run lint
+```
+
+> Para corrigir os erros de formatação no código.
+```sh
+ npm run lint:fix
+```
+
 ## Acessando a Aplicação
 Por padrão a porta configurada é a 5173 (http://localhost:5173).
 
