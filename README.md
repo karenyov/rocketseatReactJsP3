@@ -26,12 +26,12 @@ Por padrão a porta configurada é a 3000 (http://localhost:3000).
 # ESLint
 > Para visualizar os erros de formatação no código.
 ```sh
- npx run lint
+ npm run lint
 ```
 
 > Para corrigir os erros de formatação no código.
 ```sh
- npx run lint:fix
+ npm run lint:fix
 ```
 
 ## Acessando a Aplicação
